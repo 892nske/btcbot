@@ -9,3 +9,9 @@ https://www.cryptodatadownload.com/data/bitstamp/
 * Low 安値
 * Close 終値
 * Volume 出来高
+
+## 特徴量
+
+## モデル構築
+
+## 学習
